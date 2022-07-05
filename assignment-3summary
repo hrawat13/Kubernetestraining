@@ -1,0 +1,10 @@
+After deleting voting pod , voting pod was created automatically & voting and results are working porperly.
+After delteing result pod , result  pod was created automatically & voting and results are working porperly.
+
+After deleting DB pod , DB pod was created automatically .
+Voting on web page was ok but results are not changing .
+it seems that results are still pointing to old/deleted po db .
+
+
+delete the result pod , it will be created automatically & will point to new DB Pod.
+now both voting & results webpage are working 
